@@ -11,4 +11,10 @@ How it can be tested: Fest(I think it's better) or Jemmy
 
 How to build: mvn clean install
 
+
+TEST
+
+url: https://www.oracle.com
+search: login
+
 P.S. More logs must be added. There are only few I used to test system.
